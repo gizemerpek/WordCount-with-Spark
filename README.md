@@ -15,3 +15,6 @@ or any print function for printing results into text file), named it’s directo
 studentNo_output_fileSize, and print these first 10 key-value pair in the Jupyter
 notebook. Do NOT print all result.
 * Calculate and print execution time of program.
+
+Link for creating high size file:
+https://www.wikihow.com/Merge-Text-(.Txt)-Files-in-Command-Prompt
